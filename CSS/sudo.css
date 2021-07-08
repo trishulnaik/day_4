@@ -10,3 +10,6 @@ a:hover{
 a:active{
     color: blue;
 }
+p:first-child i{
+    color: black;
+}
